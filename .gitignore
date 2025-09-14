@@ -5,7 +5,7 @@ node_modules/
 
 # Archivos de entorno
 # Ignora los archivos .env en cualquier subdirectorio
-**/.env
+.env
 
 # Logs
 npm-debug.log*
