@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Image Analyzer",
+  "description": "An intelligent web application that uses Google's Gemini API to analyze the content of user-uploaded images, identifying objects and concepts with corresponding confidence scores.",
+  "requestFramePermissions": []
+}
